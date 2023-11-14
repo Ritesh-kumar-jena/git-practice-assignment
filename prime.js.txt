@@ -1,4 +1,4 @@
-prime.js
+
 // take input from the user
 const number = parseInt(prompt("Enter a positive number: "));
 let isPrime = true;
@@ -30,3 +30,4 @@ else if (number > 1) {
 else {
     console.log("The number is not a prime number.");
 }
+
